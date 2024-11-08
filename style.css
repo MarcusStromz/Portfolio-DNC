@@ -2,6 +2,7 @@ body {
     margin-left: 15%;
     margin-right: 15%;
 }
+
 .container {
     display: grid;
     grid-auto-flow: column;
@@ -21,6 +22,7 @@ body {
 a {
     color: black;
 }
+
 #menu {
     text-align: right;
     margin-top: 49px;
